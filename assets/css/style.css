@@ -846,7 +846,7 @@ footer {
     }
 
     .header_logo {
-        width: 33.1%;
+        width: 29.1%;
         background:#595959;
         margin-top: 0;
         margin-bottom: -1px;
@@ -913,7 +913,7 @@ display: block;
 
     .topMenu li .link__one {
 
-        padding: 22px 13px 23px 45px;
+        padding: 22px 39px 23px 45px;
     }
 
     .topMenu li .link__two {
@@ -960,10 +960,8 @@ display: block;
     }
 
     .videoProgress {
-        bottom: 14%;
-        left: 20.9%;
         width: 63.3%;
-        bottom: 15%;
+        bottom: 14%;
         left: 20.9%;
     }
 
@@ -1027,8 +1025,8 @@ display: block;
 
     .icon__two {
         width: 63px;
-        margin-top: 32px;
-        margin-left: 13px;
+        margin-top: 36px;
+        margin-left: 16px;
     }
 
     .icon__three {
@@ -1103,12 +1101,13 @@ display: block;
     }
     
     .messageOne {
-        margin-top: 25px;
-        margin-left: -31px
+        margin-top: 23px;
+    margin-left: -31px;
+
     }
     
     .text__messageOne{position: absolute;
-        top: 15%;
+        top: 13%;
         left: 10%;
         color: #8f8e8e;
         font-family: Arial, sans-serif;
@@ -1118,14 +1117,14 @@ display: block;
     }
 
     .messageTwo {
-        margin-top: 15px;
+        margin-top: 14px;
         margin-left: -31px;
         opacity: 0.6;
     
     }
 
     .text__messageTwo{position: absolute;
-        top: 39%;
+        top: 37%;
         left: 10%;
         color: #8f8e8e;
         font-family: Arial, sans-serif;
@@ -1139,7 +1138,7 @@ display: block;
         opacity: 0.6;
     }
     .text__messageThree{position: absolute;
-        top: 63%;
+        top: 61%;
     left: 10%;
         color: #8f8e8e;
         font-family: Arial, sans-serif;
@@ -1203,7 +1202,7 @@ display: block;
     }
 
     .ic_thrInf {
-        margin-top: 21px;
+        margin-top: 16px;
         margin-right: -7px;
         width: 160px;
     
